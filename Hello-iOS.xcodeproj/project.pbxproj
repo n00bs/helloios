@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					4657EF011E8DD9E900E5EF88 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = LHV6WF7595;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = LHV6WF7595;
 				INFOPLIST_FILE = "Hello-iOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "edu.washington.abhi3.Hello-iOS";
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = LHV6WF7595;
 				INFOPLIST_FILE = "Hello-iOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "edu.washington.abhi3.Hello-iOS";
@@ -299,6 +302,7 @@
 				4657EF161E8DD9EA00E5EF88 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
